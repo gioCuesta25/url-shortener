@@ -6,7 +6,6 @@ more shareable links. This project is based on Elysia Js and utilizes Bun js to 
 ## Features
 - URL Shortening: Converts long links into short links for easy use and sharing.
 - Redirection: Short links automatically redirect to the original URL.
-- Statistics: Basic usage statistics are tracked, such as link clicks and referrals.
 
 ## Technologies
 - Bun js
